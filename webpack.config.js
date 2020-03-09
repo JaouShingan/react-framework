@@ -6,5 +6,7 @@ module.exports = {
             '@u': path.resolve(__dirname, 'src/utils'),
             '@c': path.resolve(__dirname, 'src/components')
         }
+    },
+    devServer: {
     }
 }
